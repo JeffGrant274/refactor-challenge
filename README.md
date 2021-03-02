@@ -22,3 +22,9 @@
       * Removed the redunent seo style element
       * Removed numerous instances of repetitive code 
       * Condensed repetitive code into one element for each instance
+
+
+![Alt text](https://github.com/JeffGrant274/refactor-challenge/blob/main/assets/images/Horiseon-screen.png?raw=true)
+
+
+https://jeffgrant274.github.io/refactor-challenge/
